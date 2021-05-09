@@ -1,8 +1,7 @@
-# Lab7Web
-## PHP Dasar
+# Lab7Web PHP Dasar
 
-### 1. Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
-### 2. Buat file bernama php_dasar.php lalu akses dengan menggunakan **localhost/lab7_php_dasar/php_dasar.php**
+## 1. Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
+## 2. Buat file bernama php_dasar.php lalu akses dengan menggunakan **localhost/lab7_php_dasar/php_dasar.php**
 
 - **Buat Kode Berikut :**
 
@@ -28,7 +27,7 @@
 
 ![66](https://user-images.githubusercontent.com/56239989/117565743-12868980-b0dd-11eb-925f-e2978a7cbf8e.jpg)
 
-### 3. Membuat Form Input
+## 3. Membuat Form Input
 
 - **Buat Kode Berikut :**
 
@@ -37,4 +36,14 @@
 - **Hasilnya setelah memasukan nama dan klik Kirim :**
 
 ![22](https://user-images.githubusercontent.com/56239989/117565895-f0d9d200-b0dd-11eb-8525-4a56c34fa205.jpg)
+
+- **Operator, untuk menghitung hasil yang diinginkan**
+
+![33](https://user-images.githubusercontent.com/56239989/117566084-bc1a4a80-b0de-11eb-8733-b631913308dd.jpg)
+
+- **Hasilnya :**
+
+![44](https://user-images.githubusercontent.com/56239989/117566087-c2a8c200-b0de-11eb-942a-c073488f265e.jpg)
+
+
 
