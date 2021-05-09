@@ -86,3 +86,5 @@
 ![88](https://user-images.githubusercontent.com/56239989/117566654-0ea93600-b0e2-11eb-9ae1-0c3f7175bcbf.jpg)
 
 # Pertanyaan dan Tugas
+
+![11](https://user-images.githubusercontent.com/56239989/117570319-ce52b380-b0f3-11eb-86cd-bb460de3500b.jpg)
