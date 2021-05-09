@@ -1,8 +1,8 @@
 # Lab7Web
 ## PHP Dasar
 
-1. Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
-2. Buat file bernama php_dasar.php lalu akses dengan menggunakan **localhost/lab7_php_dasar/php_dasar.php**
+### 1. Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
+### 2. Buat file bernama php_dasar.php lalu akses dengan menggunakan **localhost/lab7_php_dasar/php_dasar.php**
 
 - **Buat Kode Berikut :**
 
@@ -28,7 +28,7 @@
 
 ![66](https://user-images.githubusercontent.com/56239989/117565743-12868980-b0dd-11eb-925f-e2978a7cbf8e.jpg)
 
-3. Membuat Form Input
+### 3. Membuat Form Input
 
 - **Buat Kode Berikut :**
 
