@@ -3,7 +3,7 @@
 ## 1. Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
 ## 2. Buat file bernama php_dasar.php lalu akses dengan menggunakan **localhost/lab7_php_dasar/php_dasar.php**
 
-# **Buat Kode Berikut :**
+### **Buat Kode Berikut :**
 
   ![11](https://user-images.githubusercontent.com/56239989/117565212-3b594f80-b0da-11eb-9cea-0c628f593607.jpg)
 
