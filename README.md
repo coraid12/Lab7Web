@@ -88,3 +88,30 @@
 # Pertanyaan dan Tugas
 
 ![11](https://user-images.githubusercontent.com/56239989/117570319-ce52b380-b0f3-11eb-86cd-bb460de3500b.jpg)
+
+### Kode yang saya gunakan :
+
+![11](https://user-images.githubusercontent.com/56239989/117570380-0c4fd780-b0f4-11eb-949e-0748a1fc8004.jpg)
+
+![22](https://user-images.githubusercontent.com/56239989/117570381-0eb23180-b0f4-11eb-9e84-6bb0059fe643.jpg)
+
+![33](https://user-images.githubusercontent.com/56239989/117570387-1245b880-b0f4-11eb-8788-486443b55a32.jpg)
+
+### Hasilnya :
+
+- **Gaji HRD**
+
+![1](https://user-images.githubusercontent.com/56239989/117570450-5afd7180-b0f4-11eb-9622-15751e4732e9.jpg)
+
+
+- **Gaji Manajer**
+
+![2](https://user-images.githubusercontent.com/56239989/117570465-65b80680-b0f4-11eb-90a2-79327be8f710.jpg)
+
+- **Gaji Supervisor**
+
+![3](https://user-images.githubusercontent.com/56239989/117570470-694b8d80-b0f4-11eb-83a3-270f10b1d9dc.jpg)
+
+- **Gaji Operator**
+
+![4](https://user-images.githubusercontent.com/56239989/117570472-6f416e80-b0f4-11eb-85b1-6b7a9f262d41.jpg)
