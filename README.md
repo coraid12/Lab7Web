@@ -45,5 +45,39 @@
 
 ![44](https://user-images.githubusercontent.com/56239989/117566087-c2a8c200-b0de-11eb-942a-c073488f265e.jpg)
 
+### Kondisi IF :
+
+![55](https://user-images.githubusercontent.com/56239989/117566226-980b3900-b0df-11eb-9127-99c31b55056c.jpg)
+
+### Hasilnya, Menunjukan hari ini/sekarang :
+
+![66](https://user-images.githubusercontent.com/56239989/117566236-a6f1eb80-b0df-11eb-80ca-4b399bb499ac.jpg)
+
+### Kondisi Switch :
+
+![11](https://user-images.githubusercontent.com/56239989/117566310-2384ca00-b0e0-11eb-83a4-70f576bb54fa.jpg)
+
+### Hasilnya, Menunjukan hari ini :
+
+![22](https://user-images.githubusercontent.com/56239989/117566318-33041300-b0e0-11eb-8418-e9af5e38b769.jpg)
+
+### Perulangan for:
+
+![33](https://user-images.githubusercontent.com/56239989/117566355-752d5480-b0e0-11eb-9704-c7a6c6129cdd.jpg)
+
+### Hasilnya :
+
+![44](https://user-images.githubusercontent.com/56239989/117566365-81b1ad00-b0e0-11eb-8ff8-6b1890e14ebc.jpg)
+
+### Perualangan while :
+
+![55](https://user-images.githubusercontent.com/56239989/117566503-1d431d80-b0e1-11eb-9778-645426a863f8.jpg)
+
+### Hasilnya :
+
+![66](https://user-images.githubusercontent.com/56239989/117566440-d9501880-b0e0-11eb-9647-4dafc164adbd.jpg)
+
+### Perulangan dowhile
+
 
 
