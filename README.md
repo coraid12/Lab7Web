@@ -41,7 +41,7 @@
 
 ![33](https://user-images.githubusercontent.com/56239989/117566084-bc1a4a80-b0de-11eb-8733-b631913308dd.jpg)
 
-### Hasilnya :
+### Hasil gaji sebelum pajak dan setelah pajak :
 
 ![44](https://user-images.githubusercontent.com/56239989/117566087-c2a8c200-b0de-11eb-942a-c073488f265e.jpg)
 
@@ -65,7 +65,7 @@
 
 ![33](https://user-images.githubusercontent.com/56239989/117566355-752d5480-b0e0-11eb-9704-c7a6c6129cdd.jpg)
 
-### Hasilnya :
+### Hasil tampilan perulangan 1 sampai 10, dan menurun 10 sampai 1 dengan for:
 
 ![44](https://user-images.githubusercontent.com/56239989/117566365-81b1ad00-b0e0-11eb-8ff8-6b1890e14ebc.jpg)
 
@@ -73,11 +73,16 @@
 
 ![55](https://user-images.githubusercontent.com/56239989/117566503-1d431d80-b0e1-11eb-9778-645426a863f8.jpg)
 
-### Hasilnya :
+### Hasil tampilan perulangan 1 sampai 10 dengan while:
 
 ![66](https://user-images.githubusercontent.com/56239989/117566440-d9501880-b0e0-11eb-9647-4dafc164adbd.jpg)
 
 ### Perulangan dowhile
 
+![77](https://user-images.githubusercontent.com/56239989/117566649-02bd7400-b0e2-11eb-8280-79255ed7b7f2.jpg)
 
+### Hasil tampilan perulangan 1 sampai 10 dengan dowhile :
 
+![88](https://user-images.githubusercontent.com/56239989/117566654-0ea93600-b0e2-11eb-9ae1-0c3f7175bcbf.jpg)
+
+# Pertanyaan dan Tugas
